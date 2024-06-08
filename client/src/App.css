@@ -1,0 +1,11 @@
+.react-terminal-wrapper{
+  height: 100%;
+}
+
+.react-terminal {
+  scrollbar-color: transparent transparent;
+}
+
+.react-terminal-input {
+  color: #34d399;
+}
