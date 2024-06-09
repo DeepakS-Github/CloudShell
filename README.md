@@ -7,6 +7,13 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
 - Supports Bash and other shell environments
 - Real-time command execution and output display
 
+## Architecture Overview
+
+<p align="center">
+  <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/1d72c087-5ed9-49dc-8490-da8ab2a052ff" width="80%" alt="execution">
+</p>
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -34,6 +41,8 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
 3. **Access the web terminal**
 
     Open your browser and navigate to `http://localhost:3000`.
+
+> **Note:** When you run the project in the Docker environment using Docker Compose, the server will run in an Ubuntu container which is independent from your computer environment.
 
 #### Manual Installation
 
@@ -74,6 +83,8 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
 6. **Access the web terminal**
 
     Open your browser and navigate to `http://localhost:3000`.
+
+> **Note:** When you use the manual installation and run the code, the shell will be linked to your computer's environment.
 
 ## Usage
 
