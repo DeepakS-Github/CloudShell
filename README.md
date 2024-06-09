@@ -13,6 +13,14 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
   <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/1d72c087-5ed9-49dc-8490-da8ab2a052ff" width="80%" alt="execution">
 </p>
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/991945e4-6bc9-4e3a-a309-577f8dc6d594" alt="Screenshot1" width="45%">
+  <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/0c2cb670-832c-4756-99df-314e28dd3a39" alt="Screenshot2" width="45%">
+  <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/c169c977-1aec-4cb4-9780-11f1e2073950" alt="Screenshot3" width="45%">
+  <img src="https://github.com/DeepakS-Github/CloudShell/assets/96366840/253d88d4-53f5-43c0-bb57-af294a524b54" alt="Screenshot4" width="45%">
+</p>
 
 ## Getting Started
 
@@ -91,5 +99,6 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
 - Open the web terminal in your browser.
 - Type your commands and see the output in real time.
 
+> **If you find this project helpful, we'd appreciate it if you could give it a star ⭐.**
 
 
