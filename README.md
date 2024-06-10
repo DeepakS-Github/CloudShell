@@ -31,7 +31,7 @@ CloudShell is a web-based terminal application built with Node.js and React.js. 
 
 ### Installation
 
-#### Docker Compose Installation
+#### Docker Compose Installation (may take some time)
 
 1. **Clone the repository**
 
