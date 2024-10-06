@@ -26,7 +26,7 @@ export default function App() {
       console.log(data);
       setTerminalUIIO((prev) => [
         ...prev,
-        <TerminalOutput>{data}</TerminalOutput>,
+        <TerminalOutput key={Date.now()}>{data}</TerminalOutput>,
       ]);
     };
 
@@ -34,7 +34,7 @@ export default function App() {
       console.log(data);
       setTerminalUIIO((prev) => [
         ...prev,
-        <TerminalOutput>
+        <TerminalOutput key={Date.now()}>
           <div className="text-rose-500">{data}</div>
         </TerminalOutput>
       ]);
@@ -65,7 +65,7 @@ export default function App() {
             console.log(terminalCommand);
             setTerminalUIIO((prev) => [
               ...prev,
-              <TerminalInput>{terminalCommand}</TerminalInput>,
+              <TerminalInput key={Date.now()}>{terminalCommand}</TerminalInput>,
             ]);
             socket.emit("input", terminalCommand);
           }}
